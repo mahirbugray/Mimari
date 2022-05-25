@@ -1,0 +1,21 @@
+C:\Users\mahir\Desktop\Yazılım Mimarisi\Yazılım Mimarisi\obj\Debug\Yazılım Mimarisi.csproj.AssemblyReference.cache
+C:\Users\mahir\Desktop\Yazılım Mimarisi\Yazılım Mimarisi\obj\Debug\Yazılım Mimarisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mahir\Desktop\Yazılım Mimarisi\Yazılım Mimarisi\obj\Debug\Yazılım_Mimarisi.Properties.Resources.resources
+C:\Users\mahir\Desktop\Yazılım Mimarisi\Yazılım Mimarisi\obj\Debug\Yazılım Mimarisi.csproj.GenerateResource.cache
+C:\Users\mahir\Desktop\Yazılım Mimarisi\Yazılım Mimarisi\obj\Debug\Yazılım Mimarisi.csproj.CoreCompileInputs.cache
+C:\Users\mahir\Desktop\Yazılım Mimarisi\Yazılım Mimarisi\obj\Debug\Yazılım_Mimarisi.Ana_Sayfa.resources
+C:\Users\mahir\Desktop\Yazılım Mimarisi\Yazılım Mimarisi\obj\Debug\Yazılım_Mimarisi.Giris_Yap.resources
+C:\Users\mahir\Desktop\Yazılım Mimarisi\Yazılım Mimarisi\obj\Debug\Yazılım_Mimarisi.Kayıt_Ol.resources
+C:\Users\mahir\Desktop\Yazılım Mimarisi\Yazılım Mimarisi\bin\Debug\Yazılım Mimarisi.exe.config
+C:\Users\mahir\Desktop\Yazılım Mimarisi\Yazılım Mimarisi\bin\Debug\Yazılım Mimarisi.exe
+C:\Users\mahir\Desktop\Yazılım Mimarisi\Yazılım Mimarisi\bin\Debug\Yazılım Mimarisi.pdb
+C:\Users\mahir\Desktop\Yazılım Mimarisi\Yazılım Mimarisi\obj\Debug\Yazılım Mimarisi.exe
+C:\Users\mahir\Desktop\Yazılım Mimarisi\Yazılım Mimarisi\obj\Debug\Yazılım Mimarisi.pdb
+C:\Users\mahir\Desktop\Yazılım Mimarisi\Yazılım Mimarisi\obj\Debug\Yazılım_Mimarisi.RezervasyonSecim.resources
+C:\Users\mahir\Desktop\Yazılım Mimarisi\Yazılım Mimarisi\obj\Debug\Yazılım_Mimarisi.OtobusCadir.resources
+C:\Users\mahir\Desktop\Yazılım Mimarisi\Yazılım Mimarisi\obj\Debug\Yazılım_Mimarisi.OtobusOtel.resources
+C:\Users\mahir\Desktop\Yazılım Mimarisi\Yazılım Mimarisi\obj\Debug\Yazılım_Mimarisi.UcakCadir.resources
+C:\Users\mahir\Desktop\Yazılım Mimarisi\Yazılım Mimarisi\obj\Debug\Yazılım_Mimarisi.UcakOtel.resources
+C:\Users\mahir\Desktop\Yazılım Mimarisi\Yazılım Mimarisi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mahir\Desktop\Yazılım Mimarisi\Yazılım Mimarisi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mahir\Desktop\Yazılım Mimarisi\Yazılım Mimarisi\obj\Debug\Yazılım Mimarisi.csproj.CopyComplete
